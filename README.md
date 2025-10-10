@@ -56,11 +56,18 @@ print("  JJJJ       R     R      00000000 ")
 ### 🔗 Links-Links-Links :anger:
 - [That's Me](https://github.com/jhonristh)  
 - [Pre-Code](https://github.com/jhonristh/Jargon_-CMPE012-/tree/Initial-Code)
+  
+Vibe Coded with chatgpt^^ :>>
+
+
 ---
-Vibe Coded with chatgpt :>>
----
-![Profile Views](https://komarev.com/ghpvc/?username=jhonristh&color=blue)
-![GitHub Streak](https://streak-stats.demolab.com?user=jhonristh&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonristh&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jhonristh&color=blue" alt="Profile Views">
+  <img src="https://streak-stats.demolab.com?user=jhonristh&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonristh&layout=compact&theme=tokyonight" alt="Top Languages">
+</p>
+
+<hr>
+
 ---
 <marquee>🐍 Keep coding... The snake never stops! 🐍</marquee>
