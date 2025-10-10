@@ -1,0 +1,5 @@
+print('JJJJJJJ    RRRRRRR    00      00 ')
+print('   J       R     R    01      01 ')
+print('   J       RRRRR     0          0')
+print('J  J       R     R    0        0 ')
+print('JJJJ       R     R     00000000  ')
