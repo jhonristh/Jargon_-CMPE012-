@@ -3,9 +3,11 @@
 
 *Bachelor of Science in Electronics Engineering 1-4 | CMPE 012*  
 
-![Status](https://img.shields.io/badge/status-learning-blue)
-![Language](https://img.shields.io/badge/python-3.12-orange)
-![Electronics](https://img.shields.io/badge/focus-ECE-brightgreen)
+<p align="center">
+  <img src="https://img.shields.io/badge/status-learning-blue" alt="Status">
+  <img src="https://img.shields.io/badge/python-3.12-orange" alt="Language">
+  <img src="https://img.shields.io/badge/focus-ECE-brightgreen" alt="Electronics">
+</p>
 
 ---
 
