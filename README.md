@@ -17,10 +17,10 @@ Each file represents what I’ve learned and practiced *throughout the semester*
 ---
 
 ## 🧩 Learning Topics
-- ✅ Introduction, Computer 101, AI & Vibe Coding  
-- ✅ Tools & Environments  
-- ✅ Git / GitHub  
-- ✅ PyCharm IDE, Import Libraries & Modules  
+- ✅ Introduction, Computer 101, AI & Vibe Coding (09/06/25)
+- ✅ Tools & Environments (09/13/25)
+- ✅ Git / GitHub (09/27/25)
+- ✅ PyCharm IDE, Import Libraries & Modules (10/04/25)
 - ☐ Syntax, Data Types & Operators  
 - ☐ Data Structures  
 - ☐ Control Flow  
