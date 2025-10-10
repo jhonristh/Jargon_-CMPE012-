@@ -67,7 +67,11 @@ Vibe Coded with chatgpt^^ :>>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonristh&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
-<hr>
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Keep coding..." width="400">
+</p>
 
 ---
 <marquee>🐍 Keep coding... The snake never stops! 🐍</marquee>
