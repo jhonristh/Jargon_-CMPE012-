@@ -1,0 +1,79 @@
+
+###  **Checking and Configuration**
+
+```bash
+git --version
+git status
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+```
+
+---
+
+###  **Staging and Committing**
+
+```bash
+git add "fname.py"
+git add --all
+git commit -m "commit message"
+```
+
+---
+
+###  **Pushing and Pulling (Local <->  GitHub)**
+
+```bash
+git push origin branch_name
+git pull origin
+git clone project
+```
+
+---
+
+###  **Branch Management**
+
+```bash
+git fetch
+git branch --all
+git checkout "BranchName"
+```
+
+---
+
+###  **Stashing and Resetting**
+
+```bash
+git stash push "name"
+git reset --hard
+```
+
+---
+
+###  **Local to GitHub Upload Steps**
+
+```bash
+git status
+git add "file name"
+git commit -m "description of changes"
+git push origin main
+```
+
+---
+
+###  **From GitHub to Local Updates**
+
+```bash
+git pull origin main
+```
+
+---
+
+###  **General Notes**
+
+* **origin** → name of the remote repository (the main GitHub repo link)
+* **branch_name** → e.g., `main`, `Antipolo-Branch`, etc.
+* **git ignore** → specifies which files or folders to exclude from the repository
+
+---
+
+Would you like me to organize these into a **cheat sheet format (grouped by purpose with short explanations)** or just keep them as a plain command list for quick reference?
