@@ -3,9 +3,11 @@
 
 *Bachelor of Science in Electronics Engineering 1-4 | CMPE 012*  
 
-![Status](https://img.shields.io/badge/status-learning-blue)
-![Language](https://img.shields.io/badge/python-3.12-orange)
-![Electronics](https://img.shields.io/badge/focus-ECE-brightgreen)
+<p align="center">
+  <img src="https://img.shields.io/badge/status-learning-blue" alt="Status">
+  <img src="https://img.shields.io/badge/python-3.12-orange" alt="Language">
+  <img src="https://img.shields.io/badge/focus-ECE-brightgreen" alt="Electronics">
+</p>
 
 ---
 
@@ -54,11 +56,19 @@ print("  JJJJ       R     R      00000000 ")
 ### 🔗 Links-Links-Links :anger:
 - [That's Me](https://github.com/jhonristh)  
 - [Pre-Code](https://github.com/jhonristh/Jargon_-CMPE012-/tree/Initial-Code)
+  
+Vibe Coded with chatgpt^^ :>>
+
+
 ---
-Vibe Coded with chatgpt :>>
----
-![Profile Views](https://komarev.com/ghpvc/?username=jhonristh&color=blue)
-![GitHub Streak](https://streak-stats.demolab.com?user=jhonristh&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonristh&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jhonristh&color=blue" alt="Profile Views">
+  <img src="https://streak-stats.demolab.com?user=jhonristh&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonristh&layout=compact&theme=tokyonight" alt="Top Languages">
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Keep coding..." width="400">
+</p>
+
 ---
 <marquee>🐍 Keep coding... The snake never stops! 🐍</marquee>
