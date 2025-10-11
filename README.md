@@ -66,9 +66,6 @@ Vibe Coded with chatgpt^^ :>>
   <img src="https://streak-stats.demolab.com?user=jhonristh&theme=tokyonight" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonristh&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Keep coding..." width="400">
 </p>
