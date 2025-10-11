@@ -1,3 +1,28 @@
+<<<<<<< HEAD
+	Checking Installed Languages (CMD or PowerShell)
+
+	Python
+
+```CMD
+python --version
+```
+
+	Java
+
+```CMD
+java --version
+```
+
+	JavaScript (Node.js)
+
+```CMD
+node --version
+```
+
+	C# (.NET)
+
+```CMD
+=======
 		Checking Installed Languages (CMD or PowerShell)
 
 **Python**
@@ -21,12 +46,17 @@ node --version
 **C# (.NET)**
 
 ```bash
+>>>>>>> 0914a271aeb44a457920a3133b76359c8bd93080
 dotnet --version
 ```
 
 ---
 
+<<<<<<< HEAD
+			File Extensions to Remember
+=======
 ### 📄 **File Extensions to Remember**
+>>>>>>> 0914a271aeb44a457920a3133b76359c8bd93080
 
 | Language       | File Extension                  | Example      |
 | -------------- | ------------------------------- | ------------ |
@@ -37,3 +67,29 @@ dotnet --version
 
 ---
 
+<<<<<<< HEAD
+
+
+
+On CMD/Windows Power Shell, after languages installations.
+Checking Commands
+
+Check Python
+: python --version
+Check Java
+: Java --version
+Check JavaScript
+: node --version
+Check CSharp
+: dotnet --version
+
+File Extensions to Remember:
+
+Python (.py)
+Java (.java)
+JavaScript (.js)
+CSharp (Folder>Program.cs)
+
+
+=======
+>>>>>>> 0914a271aeb44a457920a3133b76359c8bd93080
