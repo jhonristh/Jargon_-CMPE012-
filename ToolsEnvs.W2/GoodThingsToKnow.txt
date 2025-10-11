@@ -1,0 +1,39 @@
+		Checking Installed Languages (CMD or PowerShell)
+
+**Python**
+
+```bash
+python --version
+```
+
+**Java**
+
+```bash
+java --version
+```
+
+**JavaScript (Node.js)**
+
+```bash
+node --version
+```
+
+**C# (.NET)**
+
+```bash
+dotnet --version
+```
+
+---
+
+### 📄 **File Extensions to Remember**
+
+| Language       | File Extension                  | Example      |
+| -------------- | ------------------------------- | ------------ |
+| **Python**     | `.py`                           | `script.py`  |
+| **Java**       | `.java`                         | `Main.java`  |
+| **JavaScript** | `.js`                           | `index.js`   |
+| **C#**         | `.cs` (inside a folder/project) | `Program.cs` |
+
+---
+
