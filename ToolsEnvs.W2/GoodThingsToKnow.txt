@@ -1,0 +1,62 @@
+	Checking Installed Languages (CMD or PowerShell)
+
+	Python
+
+```CMD
+python --version
+```
+
+	Java
+
+```CMD
+java --version
+```
+
+	JavaScript (Node.js)
+
+```CMD
+node --version
+```
+
+	C# (.NET)
+
+```CMD
+dotnet --version
+```
+
+---
+
+			File Extensions to Remember
+
+| Language       | File Extension                  | Example      |
+| -------------- | ------------------------------- | ------------ |
+| **Python**     | `.py`                           | `script.py`  |
+| **Java**       | `.java`                         | `Main.java`  |
+| **JavaScript** | `.js`                           | `index.js`   |
+| **C#**         | `.cs` (inside a folder/project) | `Program.cs` |
+
+---
+
+
+
+
+On CMD/Windows Power Shell, after languages installations.
+Checking Commands
+
+Check Python
+: python --version
+Check Java
+: Java --version
+Check JavaScript
+: node --version
+Check CSharp
+: dotnet --version
+
+File Extensions to Remember:
+
+Python (.py)
+Java (.java)
+JavaScript (.js)
+CSharp (Folder>Program.cs)
+
+
