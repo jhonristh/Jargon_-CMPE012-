@@ -23,8 +23,8 @@ Each file represents what I’ve learned and practiced *throughout the semester*
 - ✅ Tools & Environments (09/13/25)
 - ✅ Git / GitHub (09/27/25)
 - ✅ PyCharm IDE, Import Libraries & Modules (10/04/25)
-- ☐ Syntax, Data Types & Operators  
-- ☐ Data Structures  
+- ✅ Syntax, Data Types & Operators  
+- ✅ Data Structures  
 - ☐ Control Flow  
 - ☐ Functions & Modularity  
 - ☐ Errors, Exceptions & Debugging  
