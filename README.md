@@ -57,7 +57,7 @@ print("  JJJJ       R     R      00000000 ")
 - [That's Me](https://github.com/jhonristh)  
 - [Pre-Code](https://github.com/jhonristh/Jargon_-CMPE012-/tree/Initial-Code)
   
-Vibe Coded with chatgpt^^ :>>
+
 
 
 ---
