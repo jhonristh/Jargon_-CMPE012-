@@ -1,56 +1,34 @@
 <<<<<<< HEAD
 	Checking Installed Languages (CMD or PowerShell)
-
-	Python
+(..PYTHON..)
+-PyCharm
+Fname.py
 
 ```CMD
 python --version
 ```
 
-	Java
+(..JAVA..)
+-Eclipse
+Fname.java
 
 ```CMD
 java --version
 ```
 
-	JavaScript (Node.js)
-
+(..JAVASCRIPT..)
+Visual Studio Code
+Fname.js
 ```CMD
-node --version
+node -v
 ```
 
-	C# (.NET)
-
+(..C#..)
+Visual Studio COde
+Program.cs
 ```CMD
-=======
-		Checking Installed Languages (CMD or PowerShell)
-
-**Python**
-
-```bash
-python --version
-```
-
-**Java**
-
-```bash
-java --version
-```
-
-**JavaScript (Node.js)**
-
-```bash
-node --version
-```
-
-**C# (.NET)**
-
-```bash
->>>>>>> 0914a271aeb44a457920a3133b76359c8bd93080
 dotnet --version
 ```
-
----
 
 <<<<<<< HEAD
 			File Extensions to Remember
@@ -65,31 +43,3 @@ dotnet --version
 | **JavaScript** | `.js`                           | `index.js`   |
 | **C#**         | `.cs` (inside a folder/project) | `Program.cs` |
 
----
-
-<<<<<<< HEAD
-
-
-
-On CMD/Windows Power Shell, after languages installations.
-Checking Commands
-
-Check Python
-: python --version
-Check Java
-: Java --version
-Check JavaScript
-: node --version
-Check CSharp
-: dotnet --version
-
-File Extensions to Remember:
-
-Python (.py)
-Java (.java)
-JavaScript (.js)
-CSharp (Folder>Program.cs)
-
-
-=======
->>>>>>> 0914a271aeb44a457920a3133b76359c8bd93080
