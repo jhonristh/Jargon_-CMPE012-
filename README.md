@@ -17,15 +17,16 @@ It includes my **class activities**, **sample codes**, and **mini projects** cod
 Each file represents what I’ve learned and practiced *throughout the semester* in **Com-Prog**.  
 
 ---
+Now on **WEEK 7**
 
 ## 🧩 Learning Topics
 - ✅ Introduction, Computer 101, AI & Vibe Coding (09/06/25)
 - ✅ Tools & Environments (09/13/25)
 - ✅ Git / GitHub (09/27/25)
 - ✅ PyCharm IDE, Import Libraries & Modules (10/04/25)
-- ☐ Syntax, Data Types & Operators  
-- ☐ Data Structures  
-- ☐ Control Flow  
+- ✅ Syntax, Data, Operators, and Expressions (10/11/25)
+- ✅ Data Structures (10/25/25)
+- ✅ Control Flow (11/08/25)
 - ☐ Functions & Modularity  
 - ☐ Errors, Exceptions & Debugging  
 - ☐ Midterms Review  
@@ -57,7 +58,7 @@ print("  JJJJ       R     R      00000000 ")
 - [That's Me](https://github.com/jhonristh)  
 - [Pre-Code](https://github.com/jhonristh/Jargon_-CMPE012-/tree/Initial-Code)
   
-Vibe Coded with chatgpt^^ :>>
+
 
 
 ---
